@@ -1,0 +1,13 @@
+names:
+- Human
+- orderKiosk
+nc: 2
+roboflow:
+  license: MIT
+  project: canteenq-counter
+  url: https://universe.roboflow.com/hkpolyu-comp4423-group-project/canteenq-counter/dataset/3
+  version: 3
+  workspace: hkpolyu-comp4423-group-project
+test: ../test/images
+train: CanteenQ-Counter-3/train/images
+val: CanteenQ-Counter-3/valid/images
