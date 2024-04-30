@@ -9,3 +9,5 @@ Change to
 test: ../test/images
 train: ../train/images
 val: ../valid/images
+
+* Dataset V1 and V2 is discarded since they are only used for code testing.
