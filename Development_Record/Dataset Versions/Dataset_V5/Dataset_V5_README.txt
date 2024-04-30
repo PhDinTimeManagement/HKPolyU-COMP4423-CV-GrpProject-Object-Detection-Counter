@@ -1,4 +1,4 @@
-Used in 4.30
+Used in 4.30 Model Version 1
 
 V3 Contains with augmented 400*70%*3 Photos
 
