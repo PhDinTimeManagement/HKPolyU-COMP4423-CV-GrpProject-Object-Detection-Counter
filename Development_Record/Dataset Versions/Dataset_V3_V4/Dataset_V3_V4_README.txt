@@ -1,7 +1,7 @@
 Used in 4.29
 
-V3 Contains with augmented 300*70%*3 Photos
-V4 Contains with augmented 400*70%*3 Photos
+V3 contains with augmented 300*70%*3 photos for model training
+V4 contains with augmented 400*70%*3 photos for model training
 
 ***Important Update***
 Why we have Dataset version 4?
